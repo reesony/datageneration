@@ -1,4 +1,4 @@
-# datageneration
+# DataGeneration
 
 ## data_augmentation
 * domain classification 모델을 학습하기 위한 데이터셋 구축
