@@ -5,6 +5,16 @@ This data utilized SNIPS dataset and the link is as follows:
 https://github.com/LeePleased/StackPropagation-SLU
 
 ## KONKUK graduation project
+- bibleqa
+  - bibleqa dataset is from bible.
+  - use LDA(latent dirichlet allocation) and tf-idf to extract keyword of bible and extract sentence using keyword of bible
+  - consisted of 4000 sentences.
+- playmedia
+  - from SNIPS dataset using label which is PlayMusic or AddToPlaylist
+  - be extracted randomly
+- generalqa
+  - from SNIPS dataset using label which is not PlayMusic or AddToPlaylist
+  - be extracted randomly
 
 ### data_augmentation
 * domain classification 모델을 학습하기 위한 데이터셋 구축
