@@ -1,5 +1,9 @@
 # DataGeneration
 
+This repository contains the code of DataGeneration using nlpaug and python library.
+This data utilized SNIPS dataset and the link is as follows:
+https://github.com/LeePleased/StackPropagation-SLU
+
 ## data_augmentation
 * domain classification 모델을 학습하기 위한 데이터셋 구축
 * nlpaug 라이브러리를 활용하여 각 sentence별로 몇몇 단어를 synonym으로 대체
