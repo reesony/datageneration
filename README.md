@@ -4,7 +4,7 @@ This repository contains the code of DataGeneration using nlpaug and python libr
 This data utilized SNIPS dataset and the link is as follows:
 https://github.com/LeePleased/StackPropagation-SLU
 
-##KONKUK graduation project
+## KONKUK graduation project
 
 ### data_augmentation
 * domain classification 모델을 학습하기 위한 데이터셋 구축
